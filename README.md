@@ -16,6 +16,9 @@ The tool was tested in QGIS 3.16 Grass 7.8.4, and needs SAGA to be installed.
 2. Go to Processing >> Graphical Modeler and load the "2d_3d_roughness_QGIS.model3" file.
 3. Select the transect file for which you want to extract 2d and 3d profiles and run the processing script.
 
+The structure of the script is shown below.
+![image](https://user-images.githubusercontent.com/16379400/122427295-48971300-cf91-11eb-995f-526c08690f40.png)
+
 ## 3. Roughness_calculations
 This folder contains the Jupyter notebook and the data used to produce the following figures.
 ![Alt text](Roughness_calculations/comparison.svg?raw=true)
@@ -24,4 +27,3 @@ This folder contains the Jupyter notebook and the data used to produce the follo
 ## 4. Rayshader
 This folder contains the R script to produce a 3d render of the seabottom, using the Rayshader (https://github.com/tylermorganwall/rayshader) library. The output looks like the figure below.
 ![Alt text](Rayshader/3d_render.png?raw=true)
-
