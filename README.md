@@ -1,4 +1,4 @@
-# Analysis of drone Digital Surface models and Orthomosaics
+# Analysis of reef drone Digital Surface models and Orthomosaics
 This repository contains the scripts used in the following paper:
 > Casella et al., in prep. Drones and structure from motion photogrammetry on coral reef: what is the error of the reconstructed digital height of corals?
 
