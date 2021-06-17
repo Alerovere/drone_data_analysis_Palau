@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "transetti",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32653" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 4, "site": "slope_II" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 444853.494906742009334, 809298.818379615317099 ], [ 444871.215549438202288, 809301.37652412999887 ] ] ] } }
+]
+}
